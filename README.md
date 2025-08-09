@@ -1,6 +1,6 @@
 # Software Chamber Website
 
-![Software Chamber Fullscreen Preview](./software chamber.png)  
+![Software Chamber Fullscreen Preview](public/software chamber.png)  
 *Screenshot of Software Chamber Website fullscreen image section*
 
 ---
