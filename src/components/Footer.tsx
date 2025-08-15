@@ -84,7 +84,7 @@ export default function ContactFooter() {
         {/* Right Section - Image */}
         <div className="w-full">
           <Image
-            src="/Rectangle 6.png" // Replace with your image path
+            src="/Rectangle 6.png" 
             alt="Team meeting"
             width={400}
             height={500}
